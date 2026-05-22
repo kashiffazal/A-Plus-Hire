@@ -193,14 +193,8 @@ Password:
 ## 📸 Application Gallery
 <table width="100%" border="1">
 <tr>
-  <td>1</td>
-  <td>2</td>
-</tr>
-</table>
-
-<div style="display:flex; align-items:flex-start;">
-
-<div style="width:33%; padding:6px;">
+  <td width="50%">
+    <div style="padding:6px;">
 
 <a href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-25.webp" target="_blank">
 <img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-25.webp" style="width:100%; border-radius:5px; margin-bottom:12px;" />
@@ -216,7 +210,8 @@ Password:
 
 </div>
 
-<div style="width:33%; padding:6px;">
+  </td>
+  <td width="50%"><div style="width:33%; padding:6px;">
 
 <a href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-24.webp" target="_blank">
 <img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-24.webp" style="width:100%; border-radius:5px; margin-bottom:12px;" />
@@ -231,8 +226,15 @@ Password:
 </a>
 
 </div>
+</td>
+</tr>
+</table>
 
-<div style="width:33%; padding:6px;">
+<div style="display:flex; align-items:flex-start;">
+
+
+
+<div style="padding:6px;">
 
 <a href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-23.webp" target="_blank">
 <img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-23.webp" style="width:100%; border-radius:5px; margin-bottom:12px;" />
