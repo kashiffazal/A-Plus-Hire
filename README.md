@@ -15,7 +15,7 @@ A modern recruitment platform built for the Australian NDIS ecosystem, inspired 
 
 <p align="center">
 
-<a href="http://aplus.innotechcloud.com/" target="_blank">
+<a target="_blank" href="http://aplus.innotechcloud.com/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
@@ -191,68 +191,66 @@ Password:
 ---
 
 ## 📸 Application Gallery
-<table width="100%" border="1">
+<table width="100%" border="0" valign="top">
 <tr>
-  <td width="50%">
+  <td width="33.3%" valign="top">
     <div style="padding:6px;">
 
-<a href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-25.webp" target="_blank">
+<a target="_blank" href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-25.webp" target="_blank">
 <img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-25.webp" style="width:100%; border-radius:5px; margin-bottom:12px;" />
 </a>
 
-<a href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-22.webp" target="_blank">
+<a target="_blank" href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-22.webp" target="_blank">
 <img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-22.webp" style="width:100%; border-radius:5px; margin-bottom:12px;" />
 </a>
 
-<a href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-18.webp" target="_blank">
+<a target="_blank" href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-18.webp" target="_blank">
 <img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-18.webp" style="width:100%; border-radius:5px;" />
 </a>
 
 </div>
 
   </td>
-  <td width="50%"><div style="width:33%; padding:6px;">
+  <td width="33.3%" valign="top">
+  <div style="padding:6px;">
 
-<a href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-24.webp" target="_blank">
+<a target="_blank" href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-24.webp" target="_blank">
 <img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-24.webp" style="width:100%; border-radius:5px; margin-bottom:12px;" />
 </a>
 
-<a href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-21.webp" target="_blank">
+<a target="_blank" href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-21.webp" target="_blank">
 <img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-21.webp" style="width:100%; border-radius:5px; margin-bottom:12px;" />
 </a>
 
-<a href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-17.webp" target="_blank">
+<a target="_blank" href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-17.webp" target="_blank">
 <img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-17.webp" style="width:100%; border-radius:5px;" />
 </a>
 
 </div>
 </td>
-</tr>
-</table>
-
-<div style="display:flex; align-items:flex-start;">
+<td width="33.3%" valign="top">
+    <div style="padding:6px;">
 
 
-
-<div style="padding:6px;">
-
-<a href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-23.webp" target="_blank">
+<a target="_blank" href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-23.webp" target="_blank">
 <img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-23.webp" style="width:100%; border-radius:5px; margin-bottom:12px;" />
 </a>
 
-<a href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-20.webp" target="_blank">
+<a target="_blank" href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-20.webp" target="_blank">
 <img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-20.webp" style="width:100%; border-radius:5px; margin-bottom:12px;" />
 </a>
 
-<a href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-16.webp" target="_blank">
+<a target="_blank" href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-16.webp" target="_blank">
 <img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-16.webp" style="width:100%; border-radius:5px; margin-bottom:12px;" />
 </a>
 
-<a href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-15.webp" target="_blank">
+<a target="_blank" href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-15.webp" target="_blank">
 <img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-15.webp" style="width:100%; border-radius:5px;" />
 </a>
 
-</div>
+    </div>
+</td>
+</tr>
+</table>
 
-</div>
 
