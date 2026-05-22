@@ -1,15 +1,11 @@
-# 🚀 A-Plus-Hire
-
 <div align="center">
 
-<img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-1.webp" width="100%" alt="A-Plus-Hire Banner" />
 
-<br/>
-<br/>
 
-# ✨ NDIS Hiring Portal Platform
+# 🚀 A-Plus-Hire
 
-### Connecting Support Workers, Providers & Participants
+### NDIS Hiring Portal Platform
+#### Connecting Support Workers, Providers & Participants
 
 <p align="center">
 A modern recruitment platform built for the Australian NDIS ecosystem, inspired by platforms like Indeed.
@@ -44,7 +40,7 @@ A modern recruitment platform built for the Australian NDIS ecosystem, inspired 
 
 ---
 
-# 📌 Overview
+## 📌 Overview
 
 A-Plus-Hire is a professional NDIS hiring and recruitment platform designed specifically for the disability support sector in Australia.
 
@@ -59,13 +55,13 @@ The application includes role-based dashboards, secure authentication, responsiv
 
 ---
 
-# ✨ Key Features
+## ✨ Key Features
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-## 👥 Multi-Role System
+### 👥 Multi-Role System
 
 * Admin Dashboard
 * Support Worker Dashboard
@@ -77,7 +73,7 @@ The application includes role-based dashboards, secure authentication, responsiv
 </td>
 <td width="50%" valign="top">
 
-## 📋 Recruitment Workflow
+### 📋 Recruitment Workflow
 
 * Job Posting System
 * Candidate Applications
@@ -92,7 +88,7 @@ The application includes role-based dashboards, secure authentication, responsiv
 <tr>
 <td width="50%" valign="top">
 
-## 🎨 Modern UI/UX
+### 🎨 Modern UI/UX
 
 * Fully Responsive Layout
 * Mobile Friendly Interface
@@ -104,7 +100,7 @@ The application includes role-based dashboards, secure authentication, responsiv
 </td>
 <td width="50%" valign="top">
 
-## 🔐 Security & Backend
+### 🔐 Security & Backend
 
 * Authentication System
 * Secure APIs
@@ -119,40 +115,27 @@ The application includes role-based dashboards, secure authentication, responsiv
 
 ---
 
-# 🛠️ Technology Stack
+## 🛠️ Technology Stack
 
-<div align="center">
-
-| Category     | Technologies |
-| ------------ | ------------ |
-| Frontend     | React.js     |
-| Backend      | Node.js      |
-| Database     | MySQL        |
-| Styling      | Tailwind CSS |
-| ORM          | Sequelize    |
-| Architecture | REST API     |
-
-</div>
+| Frontend | Backend | Database | Styling | ORM |
+|----------|----------|-----------|----------|-----|
+| React.js | Node.js | MySQL | Tailwind CSS | Sequelize |
 
 ---
 
-# 🌐 Live Demo
+## 🌐 Live Demo and Credentials
 
-<div align="center">
 
-## 🔗 [http://aplus.innotechcloud.com/](http://aplus.innotechcloud.com/)
+### 🔗 [http://aplus.innotechcloud.com/](http://aplus.innotechcloud.com/)
 
-</div>
 
----
 
-# 🔑 Demo Credentials
 
-<table>
+<table width="100%">
 <tr>
 <td width="25%" valign="top">
 
-## 👑 Admin
+### 👑 Admin
 
 ```txt
 Email:
@@ -165,7 +148,7 @@ Password:
 </td>
 <td width="25%" valign="top">
 
-## 👨‍⚕️ Support Worker
+### 👨‍⚕️ Support Worker
 
 ```txt
 Email:
@@ -178,7 +161,7 @@ Password:
 </td>
 <td width="25%" valign="top">
 
-## 🏢 NDIS Provider
+### 🏢 NDIS Provider
 
 ```txt
 Email:
@@ -191,7 +174,7 @@ Password:
 </td>
 <td width="25%" valign="top">
 
-## 🧑‍🦽 Participant
+### 🧑‍🦽 Participant
 
 ```txt
 Email:
@@ -207,22 +190,22 @@ Password:
 
 ---
 
-# 📸 Application Gallery
+## 📸 Application Gallery
 
 <div style="display:flex; align-items:flex-start;">
 
 <div style="width:33%; padding:6px;">
 
 <a href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-25.webp" target="_blank">
-<img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-25.webp" style="width:100%; border-radius:14px; margin-bottom:12px;" />
+<img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-25.webp" style="width:100%; border-radius:5px; margin-bottom:12px;" />
 </a>
 
 <a href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-22.webp" target="_blank">
-<img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-22.webp" style="width:100%; border-radius:14px; margin-bottom:12px;" />
+<img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-22.webp" style="width:100%; border-radius:5px; margin-bottom:12px;" />
 </a>
 
 <a href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-18.webp" target="_blank">
-<img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-18.webp" style="width:100%; border-radius:14px;" />
+<img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-18.webp" style="width:100%; border-radius:5px;" />
 </a>
 
 </div>
@@ -230,15 +213,15 @@ Password:
 <div style="width:33%; padding:6px;">
 
 <a href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-24.webp" target="_blank">
-<img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-24.webp" style="width:100%; border-radius:14px; margin-bottom:12px;" />
+<img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-24.webp" style="width:100%; border-radius:5px; margin-bottom:12px;" />
 </a>
 
 <a href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-21.webp" target="_blank">
-<img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-21.webp" style="width:100%; border-radius:14px; margin-bottom:12px;" />
+<img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-21.webp" style="width:100%; border-radius:5px; margin-bottom:12px;" />
 </a>
 
 <a href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-17.webp" target="_blank">
-<img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-17.webp" style="width:100%; border-radius:14px;" />
+<img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-17.webp" style="width:100%; border-radius:5px;" />
 </a>
 
 </div>
@@ -246,157 +229,22 @@ Password:
 <div style="width:33%; padding:6px;">
 
 <a href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-23.webp" target="_blank">
-<img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-23.webp" style="width:100%; border-radius:14px; margin-bottom:12px;" />
+<img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-23.webp" style="width:100%; border-radius:5px; margin-bottom:12px;" />
 </a>
 
 <a href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-20.webp" target="_blank">
-<img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-20.webp" style="width:100%; border-radius:14px; margin-bottom:12px;" />
+<img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-20.webp" style="width:100%; border-radius:5px; margin-bottom:12px;" />
 </a>
 
 <a href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-16.webp" target="_blank">
-<img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-16.webp" style="width:100%; border-radius:14px; margin-bottom:12px;" />
+<img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-16.webp" style="width:100%; border-radius:5px; margin-bottom:12px;" />
 </a>
 
 <a href="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-15.webp" target="_blank">
-<img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-15.webp" style="width:100%; border-radius:14px;" />
+<img src="https://innotechcloud.com/wp-content/uploads/2025/06/a-plus-hire-15.webp" style="width:100%; border-radius:5px;" />
 </a>
 
 </div>
 
 </div>
 
----
-
-# ⚙️ Local Development Setup
-
-## 1️⃣ Clone Repository
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-```
-
----
-
-## 2️⃣ Navigate Into Project
-
-```bash
-cd a-plus-hire
-```
-
----
-
-## 3️⃣ Install Dependencies
-
-### Frontend
-
-```bash
-npm install
-```
-
-### Backend
-
-```bash
-cd server
-npm install
-```
-
----
-
-## 4️⃣ Configure Environment Variables
-
-Create `.env` files for frontend and backend.
-
-```env
-PORT=5000
-
-DB_HOST=localhost
-DB_USER=root
-DB_PASSWORD=yourpassword
-DB_NAME=aplushire
-
-JWT_SECRET=your_secret_key
-```
-
----
-
-## 5️⃣ Run Development Server
-
-### Frontend
-
-```bash
-npm run dev
-```
-
-### Backend
-
-```bash
-npm start
-```
-
----
-
-# 📁 Project Structure
-
-```bash
-A-Plus-Hire/
-│
-├── client/
-│   ├── src/
-│   ├── components/
-│   ├── pages/
-│   └── assets/
-│
-├── server/
-│   ├── controllers/
-│   ├── routes/
-│   ├── models/
-│   ├── middleware/
-│   └── config/
-│
-└── README.md
-```
-
----
-
-# 🚀 Future Enhancements
-
-* Real-Time Chat System
-* Push Notifications
-* Video Interview Integration
-* Resume Builder
-* AI Candidate Matching
-* Stripe Subscription System
-* Advanced Analytics
-* Email Notification System
-
----
-
-# 👨‍💻 Developed By
-
-<div align="center">
-
-# Kashif Fazal
-
-### Full Stack Developer • React • Node.js • AI Solutions
-
-<br/>
-
-<a href="http://aplus.innotechcloud.com/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Live_Project-Visit_Website-2563EB?style=for-the-badge" />
-</a>
-
-</div>
-
----
-
-# ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub and share it with others.
-
----
-
-<div align="center">
-
-## 🚀 Built with passion by Innotech Cloud
-
-</div>
