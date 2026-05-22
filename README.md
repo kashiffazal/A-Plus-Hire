@@ -191,6 +191,12 @@ Password:
 ---
 
 ## 📸 Application Gallery
+<table width="100%" border="1">
+<tr>
+  <td>1</td>
+  <td>2</td>
+</tr>
+</table>
 
 <div style="display:flex; align-items:flex-start;">
 
