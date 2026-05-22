@@ -1,0 +1,6 @@
+.page-title-container{
+  background-image: url('./bg-img.jpg');
+  background-position: center bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+}

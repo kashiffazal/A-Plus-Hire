@@ -1,0 +1,9 @@
+.web-pages-container .-mr-108 {
+  margin-right: -108px;
+}
+
+@media (max-width: 1365px) {
+  .web-pages-container .-mr-108 {
+    margin-right: unset;
+  }
+}

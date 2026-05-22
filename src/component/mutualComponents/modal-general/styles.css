@@ -1,0 +1,107 @@
+.custom-modal-container .modal-modern-title, .custom-modal-container .modal-modern-title-for-view-details {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #d2d2d2;
+  margin-bottom: 15px;
+  padding-bottom: 10px;
+}
+.custom-modal-container .modal-modern-title .second, .custom-modal-container .modal-modern-title-for-view-details .second {
+  margin-top: -10px;
+}
+.custom-modal-container .modal-modern-title .title, .custom-modal-container .modal-modern-title-for-view-details .title {
+  display: block;
+  font-size: 22px;
+  margin-bottom: -6px;
+  font-weight: 700;
+  margin-top: -10px;
+}
+.custom-modal-container .modal-modern-title .sub-title, .custom-modal-container .modal-modern-title .sub-title-right, .custom-modal-container .modal-modern-title-for-view-details .sub-title, .custom-modal-container .modal-modern-title-for-view-details .sub-title-right {
+  display: block;
+  font-size: 16px;
+  font-weight: 400;
+}
+.custom-modal-container .modal-modern-title .title-right, .custom-modal-container .modal-modern-title-for-view-details .title-right {
+  display: block;
+  font-size: 18px;
+  margin-bottom: -6px;
+  font-weight: 600;
+  margin-top: -10px;
+}
+.custom-modal-container .modal-modern-title .bullet-color-pending, .custom-modal-container .modal-modern-title .bullet-color-success, .custom-modal-container .modal-modern-title-for-view-details .bullet-color-pending, .custom-modal-container .modal-modern-title-for-view-details .bullet-color-success {
+  background: var(--pending-color);
+  width: 12px;
+  height: 12px;
+  border-radius: 4px;
+  display: inline-block;
+  position: relative;
+  top: 1px;
+}
+.custom-modal-container .modal-modern-title .bullet-color-success, .custom-modal-container .modal-modern-title-for-view-details .bullet-color-success {
+  background: var(--success-color);
+}
+@media (max-width: 576px) {
+  .custom-modal-container .modal-modern-title, .custom-modal-container .modal-modern-title-for-view-details {
+    display: block;
+    padding: 10px;
+    text-align: center;
+ }
+  .custom-modal-container .modal-modern-title .pdf-btn, .custom-modal-container .modal-modern-title-for-view-details .pdf-btn {
+    width: 100%;
+    margin-top: 5px;
+ }
+  .custom-modal-container .modal-modern-title .second, .custom-modal-container .modal-modern-title-for-view-details .second {
+    margin: 0px;
+ }
+  .custom-modal-container .modal-modern-title .title, .custom-modal-container .modal-modern-title-for-view-details .title {
+    font-size: 20px;
+ }
+  .custom-modal-container .modal-modern-title .sub-title, .custom-modal-container .modal-modern-title-for-view-details .sub-title {
+    font-size: 14px;
+    margin-top: 3px;
+ }
+}
+@media (max-width: 500px) {
+  .custom-modal-container .modal-modern-title .title, .custom-modal-container .modal-modern-title-for-view-details .title {
+    font-size: 16px;
+ }
+}
+@media (max-width: 350px) {
+  .custom-modal-container .modal-modern-title .title, .custom-modal-container .modal-modern-title-for-view-details .title {
+    font-size: 14px;
+ }
+}
+.custom-modal-container .modal-modern-title-for-view-details {
+  border: unset;
+  margin: unset;
+}
+.custom-modal-container .ant-modal-close, .custom-modal-container .ant-modal-footer {
+  display: none;
+}
+.custom-modal-container .hide-header-close-btn {
+  border: 3px solid white;
+  position: absolute;
+  right: -10px;
+  top: -10px;
+  width: 30px;
+  height: 30px;
+  border-radius: 20px;
+  font-size: 14px;
+  background: #524b4b;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+@media (max-width: 576px) {
+  .custom-modal-container .hide-header-close-btn {
+    right: 0px;
+ }
+}
+.custom-modal-container .pdfIframe {
+  width: 100%;
+  border: unset;
+  height: 520px;
+  border-radius: 5px;
+  border-bottom: 1px solid #cacaca;
+}

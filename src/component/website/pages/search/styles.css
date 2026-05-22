@@ -1,0 +1,36 @@
+.search-on-web .ant-form-item-control-input-content input::placeholder {
+  color: #77838f;
+  font-size: 16px;
+}
+.search-on-web .ant-form-item-control-input-content input {
+  color: #77838f;
+  font-size: 16px;
+  margin-top: 0px;
+}
+
+.search-on-web .ant-form-item-control-input-content .ant-input-suffix i {
+  color: #696969 !important;
+  font-size: 1.5rem; /* 24px */
+  line-height: 2rem; /* 32px */
+}
+
+.search-on-web .ant-select-selector {
+  border: unset !important;
+  padding: 0px !important;
+  box-shadow: unset !important;
+}
+.search-on-web .ant-select-selector .ant-select-selection-search {
+  left: 0px;
+}
+.search-on-web .ant-select-selector .ant-select-selection-item {
+  color: #77838f;
+  font-size: 16px;
+  font-family: inherit;
+}
+
+.search-on-web .ant-select-arrow {
+  color: #696969 !important;
+  font-size: 17px; /* 24px */
+  line-height: 2rem; /* 32px */
+  right:0px;
+}

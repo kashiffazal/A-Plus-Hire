@@ -1,0 +1,186 @@
+.c_fileUploaderContainer .fileNameAfterLoader .ant-upload-list-item {
+  top: 39px;
+}
+.c_fileUploaderContainer .dragDropContainer {
+  position: relative;
+}
+.c_fileUploaderContainer .dragDropContainer .dragDropContentContainer {
+  float: left;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  width: 100%;
+}
+.c_fileUploaderContainer .dragDropContainer .dragDropContentContainer .bg_img {
+  background-image: url("./images/dadg.png");
+  height: 67px;
+  background-position: 0% 5px;
+  background-repeat: no-repeat;
+  float: left;
+  width: 61px;
+  margin-left: 20px;
+}
+.c_fileUploaderContainer .dragDropContainer .dragDropContentContainer .content {
+  float: left;
+  text-align: left;
+  padding: 0px 20px;
+  width: 100%;
+}
+.c_fileUploaderContainer
+  .dragDropContainer
+  .dragDropContentContainer
+  .content
+  h3 {
+  margin: 0px;
+  color: #686868;
+  line-height: 18px;
+}
+.c_fileUploaderContainer
+  .dragDropContainer
+  .dragDropContentContainer
+  .content
+  p {
+  margin: 0px;
+  font-size: 12px;
+  color: #7f7f7f;
+}
+.c_fileUploaderContainer
+  .dragDropContainer
+  .dragDropContentContainer
+  .content
+  .hidePara {
+  color: #ff000000;
+}
+.c_fileUploaderContainer
+  .dragDropContainer
+  .dragDropContentContainer
+  .content
+  .extensionError {
+  color: red;
+  font-size: 11px;
+}
+@media (max-width: 976px) {
+  .c_fileUploaderContainer
+    .dragDropContainer
+    .dragDropContentContainer
+    .content
+    h3 {
+    font-size: 14px;
+  }
+}
+@media (max-width: 576px) {
+  .c_fileUploaderContainer
+    .dragDropContainer
+    .dragDropContentContainer
+    .content
+    h3 {
+    font-size: 12px;
+  }
+}
+@media (max-width: 350px) {
+  .c_fileUploaderContainer
+    .dragDropContainer
+    .dragDropContentContainer
+    .content
+    p,
+  .c_fileUploaderContainer
+    .dragDropContainer
+    .dragDropContentContainer
+    .content
+    h3 {
+    font-size: 10px;
+  }
+}
+.c_fileUploaderContainer .dragDropContainer .ant-form-item-explain {
+  display: block;
+  width: auto;
+  right: 8px;
+}
+.c_fileUploaderContainer .ant-upload-list {
+  margin: 0px;
+  font-size: 12px;
+  line-height: 22px;
+  position: absolute;
+  top: 50px;
+  left: 93px;
+  background: unset;
+  z-index: 10;
+}
+.c_fileUploaderContainer ._1_2_container .ant-upload-list {
+  /* border: 1px solid red; */
+  top: unset;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+.c_fileUploaderContainer
+  ._1_2_container
+  .ant-upload-list
+  .ant-upload-list-item-container
+  .ant-upload-list-item {
+  border: 1px dashed #979797;
+  padding: 0px 0px 0px 5px;
+  background: white;
+  margin: 5px;
+  border-radius: 5px;
+  height: 25px;
+}
+.c_fileUploaderContainer
+  ._1_2_container
+  .ant-upload-list
+  .ant-upload-list-item {
+  margin: 0px;
+}
+.c_fileUploaderContainer .ant-upload-list > div > span > div {
+  margin: 0px;
+}
+@media (max-width: 976px) {
+  .c_fileUploaderContainer .ant-upload-list-item .ant-upload-list-item-info {
+    font-size: 12px;
+  }
+}
+@media (max-width: 576px) {
+  .c_fileUploaderContainer .ant-upload-list-item .ant-upload-list-item-info {
+    font-size: 10px;
+  }
+}
+@media (max-width: 320px) {
+  .c_fileUploaderContainer .ant-upload-list-item .ant-upload-list-item-info {
+    width: 190px;
+    position: relative;
+    left: -8px;
+  }
+}
+.c_fileUploaderContainer .ant-upload-list-item .ant-upload-list-item-info {
+  padding: 0px;
+}
+.c_fileUploaderContainer
+  .ant-upload-list-item:hover
+  .ant-upload-list-item-info {
+  background: unset;
+}
+.c_fileUploaderContainer .ant-upload-list-item-name {
+  padding-left: 10px;
+}
+.c_fileUploaderContainer .ant-upload-list-item .anticon-close,
+.c_fileUploaderContainer .ant-upload-list-item:hover .anticon-close {
+  opacity: 1;
+  right: -5px;
+  top: 5px;
+}
+.c_fileUploaderContainer .ant-upload.ant-upload-drag.ant-upload-disabled {
+  background: #f3f3f3;
+}
+.c_fileUploaderContainer .viewFileLink {
+  border: 1px dashed #d9d9d9;
+  position: relative;
+  background: #fafafa;
+  width: 100%;
+  display: block;
+  padding: 3px 10px;
+  margin-top: 5px;
+  border-radius: 4px;
+  font-size: 14px;
+  color:var(--colorPrimary);
+  text-align: center;
+}

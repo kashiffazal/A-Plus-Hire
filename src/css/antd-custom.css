@@ -1,0 +1,89 @@
+.ant-btn-primary {
+  background: var(--colorPrimary);
+}
+
+.ant-modal-confirm .ant-btn-primary,
+.ant-modal-content .ant-btn-primary,
+.ant-popover-content .ant-btn-primary {
+  background-color: var(--colorPrimary);
+}
+
+.ant-modal-confirm .ant-btn-primary:disabled,
+.ant-modal-content .ant-btn-primary:disabled {
+  background: whitesmoke !important;
+}
+
+.ant-switch {
+  background: #00000040;
+}
+
+.anticon {
+  display: inline-flex !important;
+}
+
+.ant-typography {
+  font-family: inherit;
+}
+
+.ant-popover {
+  max-width: 320px;
+}
+
+/*//@ Form Input*/
+.ant-form-item {
+  margin-bottom: 18px;
+}
+.ant-form-item-label {
+  padding-bottom: 2px !important;
+}
+/* .ant-form-item-required::after {
+  visibility: visible !important;
+} */
+.ant-form-item-required::before {
+  position: absolute;
+  right: -2px;
+}
+/*//@ Required Msg*/
+.ant-form-item-with-help .ant-form-item-explain,
+.ant-form-item-explain-connected {
+  text-align: right;
+  font-size: 12px;
+  position: absolute;
+  right: 0;
+}
+.ant-form-item-explain-error {
+  font-size: 12px;
+  font-weight: 500;
+}
+/*//@ Tooltip */
+.ant-tooltip .ant-tooltip-arrow:before,
+.ant-popover .ant-popover-arrow::before {
+  clip-path: polygon(10px 100%, 50% 10px, 10px 100%, 10px 100%);
+  /* clip-path: path('M 0 8 A 4px 4px 0 0 0 10px 10px L 10px 10px A 4px 4px 0 0 1 10px 10px L 10px 10px A 4px 4px 0 0 0 16 8 Z'); */
+  /* content: ""; */
+}
+.ant-popover .ant-popover-arrow::after,
+.ant-tooltip .ant-tooltip-arrow::after {
+  width: 10px;
+  height: 10px;
+  background: var(--antd-arrow-background-color);
+}
+
+/*//@ Radio Buttons*/
+.ant-radio-wrapper,
+.ant-checkbox-wrapper {
+  position: relative;
+  /* width: 100%; */
+  min-height: 25px;
+  line-height: 22px;
+  padding-bottom: 7px;
+}
+.ant-radio-wrapper .ant-radio,
+.ant-checkbox-wrapper .ant-checkbox {
+  position: absolute;
+  top: 3px;
+}
+.ant-radio-wrapper > span:nth-child(2),
+.ant-checkbox-wrapper > span:nth-child(2) {
+  padding-left: 25px;
+}

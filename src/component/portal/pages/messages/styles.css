@@ -1,0 +1,19 @@
+.message-container .gridStart .colStart{
+  height: calc(100vh - 249px);
+  overflow: auto;
+}
+.message-container .gridStart .innerColStart{
+  height: calc(100vh - 372px);
+  overflow: auto;
+}
+
+.message-container textarea.ant-input{
+  height:43px;
+}
+
+@media (max-width: 1023px) {
+  .message-container .gridStart .colStart,
+  .message-container .gridStart .innerColStart{
+    height: 400px;
+  }
+}

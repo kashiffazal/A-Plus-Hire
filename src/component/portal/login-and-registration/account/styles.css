@@ -1,0 +1,91 @@
+/*@ Form Steps*/
+.reg-profile-form-container .ant-steps-item-content {
+  min-height: 42.5px !important;
+}
+.reg-profile-form-container .ant-steps-item:last-child .ant-steps-item-content {
+  min-height: 0px !important;
+}
+.reg-profile-form-container .ant-steps-item-title {
+  font-weight: 500;
+  font-size: 15px !important;
+}
+
+.reg-profile-form-container .form-container {
+  border: 1px solid #d5d5d5;
+  padding: 18px;
+  border-radius: 7px;
+  margin-bottom: 5px;
+}
+
+.reg-profile-form-container .ant-steps-item-finish .ant-steps-item-title {
+  color: var(--colorPrimary) !important;
+}
+
+.reg-profile-form-container .sub-step,
+.reg-profile-form-container .sub-step .ant-steps-item-title {
+  transition: all 150ms ease-in-out;
+}
+
+.reg-profile-form-container .sub-step {
+  margin-top: 12px;
+  margin-left: 2px;
+}
+
+.reg-profile-form-container .sub-step .ant-steps-item-title {
+  font-weight: 500 !important;
+}
+.reg-profile-form-container .ant-steps-item-wait .sub-step {
+  height: 0px;
+  opacity: 0;
+}
+.reg-profile-form-container .ant-steps-item-active .sub-step {
+  opacity: 1;
+}
+
+.reg-profile-form-container .sub-step .ant-steps-item-title {
+  font-weight: 400;
+}
+.reg-profile-form-container
+  .sub-step
+  .ant-steps-item-finish
+  .ant-steps-item-title {
+  color: var(--colorPrimary) !important;
+}
+.reg-profile-form-container
+  .sub-step
+  .ant-steps-item-active
+  .ant-steps-item-title {
+  padding-left: 5px;
+}
+
+.reg-profile-form-container .sub-step .ant-steps-item-content {
+  min-height: 32.5px !important;
+}
+
+/*@ Forms - SW - NDIS - Self.. etc*/
+.reg-profile-form-container .form-header-gradient {
+  background: var(--colorPrimary);
+  background: -moz-linear-gradient(
+    122deg,
+    var(--colorPrimary) 70%,
+    rgba(255, 255, 255, 1) 70%
+  );
+  background: -webkit-linear-gradient(
+    122deg,
+    var(--colorPrimary) 70%,
+    rgba(255, 255, 255, 1) 70%
+  );
+  background: linear-gradient(
+    122deg,
+    var(--colorPrimary) 70%,
+    rgba(255, 255, 255, 1) 70%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=var(--colorPrimary), endColorstr="#ffffff", GradientType=1);
+  border-bottom: 1px solid var(--colorPrimary);
+}
+
+@media (max-width: 767px) {
+  .reg-profile-form-container .form-header-gradient {
+    background: unset;
+  }
+}
